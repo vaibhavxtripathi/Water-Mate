@@ -4,7 +4,7 @@ WaterMate is a beautifully crafted water reminder app built with **React Native*
 
 ## 📹 Demo
 
-![App Demo](./assets/app-flow.gif)
+<img src="./assets/app-flow.gif" alt="App Demo" width="250"/>
 
 ## ✨ Features
 
